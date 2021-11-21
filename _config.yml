@@ -28,6 +28,7 @@ baseurl: "/ahjekyll" # the subpath of your site, e.g. /blog
 url: "https://ahdcreative.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+repository: AHDCreative/AHJekyll
 
 # Build settings
 theme: jekyll-theme-cayman
