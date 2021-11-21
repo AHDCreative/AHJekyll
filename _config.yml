@@ -34,7 +34,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - Jekyll-paginate
-  - simple-jekyl-search
+  - simple-jekyll-search
   - jekyll-admin
 
 # Exclude from processing.
